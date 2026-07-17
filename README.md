@@ -19,7 +19,7 @@ Through this exercise, I learned how to:
 
 - Create a GitHub repository.
 - Clone a repository.
-- few git commands practiced
+- few git commands practiced example:
   bash
   git clone
   git status
